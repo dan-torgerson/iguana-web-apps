@@ -1,0 +1,11 @@
+{
+   "Name": "Raw HTTP (To Translator)",
+   "LuaDependencies": [
+      "connector",
+      "fasthttp2",
+      "retry"
+   ],
+   "OtherDependencies": [
+      "demo.vmd"
+   ]
+}
